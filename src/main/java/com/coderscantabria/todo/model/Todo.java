@@ -1,9 +1,7 @@
 package com.coderscantabria.todo.model;
 
 import jakarta.persistence.*;
-import lombok.Data;
 
-@Data
 @Entity
 @Table(name = "todos")
 public class Todo {
