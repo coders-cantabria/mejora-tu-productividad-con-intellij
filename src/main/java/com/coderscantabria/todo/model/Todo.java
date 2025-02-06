@@ -1,7 +1,7 @@
 package com.coderscantabria.todo.model;
 
-import lombok.Data;
 import jakarta.persistence.*;
+import lombok.Data;
 
 @Data
 @Entity
